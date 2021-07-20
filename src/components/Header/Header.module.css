@@ -1,0 +1,15 @@
+.navHeader{
+    font-size: x-large;
+    line-height: 3rem;
+    cursor: pointer;
+}
+
+.navHeader:hover {
+    color: #aeaeae
+}
+
+.header__container{
+    display: flex;
+    padding-left: 1vw;
+    align-items: center;
+}

@@ -1,0 +1,22 @@
+
+.layout {
+  width: 100vw;
+}
+
+.layout__header {
+  background-color: var(--classic-blue);
+  color: var(--light);
+}
+
+
+.layout__header {
+  color: var(--light);
+  background-color: var(--classic-blue);
+  height: 3rem;
+}
+
+
+.layout__body {
+  margin-top: 1rem;
+  height: calc(100vh - 5rem);
+}

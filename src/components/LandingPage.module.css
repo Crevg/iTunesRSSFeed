@@ -1,0 +1,17 @@
+.datatable {
+    width: 100%;
+}
+
+.tableContainer {
+    padding-bottom: 2rem;
+}
+
+.buttonContainer{
+    text-align: center;
+}
+
+section {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+

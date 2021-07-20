@@ -1,0 +1,13 @@
+.table {
+    box-shadow: 5px 5px 10px black;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.clickable:hover {
+    background-color: #aeaeae !important;
+    box-shadow: 0px 2px 0px black;
+
+}
